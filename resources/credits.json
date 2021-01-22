@@ -1,0 +1,1120 @@
+{
+  "Lines": [
+    {
+      "Text": "Inmortal Tower",
+      "Font": "sourcesansproblack",
+      "Size": 24,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 8,
+        "G": 114,
+        "B": 180
+      }
+    },
+    {
+      "Text": "https://inmortaltower.shivtr.com/",
+      "Font": "sourcesansproblack",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 100,
+        "R": 8,
+        "G": 114,
+        "B": 180
+      }
+    },
+    {
+      "Text": "Desarrollado por VolatileKV S.a",
+      "Font": "sourcesansproblack",
+      "Size": 8,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Copyright 2021 (C) VolatileKV S.a",
+      "Font": "sourcesansproblack",
+      "Size": 8,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "",
+      "Font": "sourcesansproblack",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "..::Desarrolladores::..",
+      "Font": "sourcesansproblack",
+      "Size": 12,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 158,
+        "B": 255
+      }
+    },
+    {
+      "Text": "",
+      "Font": "sourcesansproblack",
+      "Size": 8,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "JC Snider",
+      "Font": "sourcesansproblack",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Joe Bridges",
+      "Font": "sourcesansproblack",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Franco Valenzuela",
+      "Font": "sourcesansproblack",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Emiliano Ortiz",
+      "Font": "sourcesansproblack",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Nahuel Maximiliano",
+      "Font": "sourcesansproblack",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Robert Lodico",
+      "Font": "sourcesansproblack",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "",
+      "Font": "sourcesansproblack",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "..::Gráficos::..",
+      "Font": "sourcesansproblack",
+      "Size": 12,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 4,
+        "G": 0,
+        "B": 255
+      }
+    },
+    {
+      "Text": "",
+      "Font": "sourcesansproblack",
+      "Size": 8,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "7Soul",
+      "Font": "sourcesansproblack",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Iconos de items y hechizos",
+      "Font": "sourcesanspro",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "",
+      "Font": "sourcesansproblack",
+      "Size": 8,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Cordell Carrier (Alias: Murdoc)",
+      "Font": "sourcesansproblack",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Modificaciones de Tilesets y sprites",
+      "Font": "sourcesanspro",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "",
+      "Font": "sourcesansproblack",
+      "Size": 8,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "George Bailey (Alias: George)",
+      "Font": "sourcesansproblack",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Estilo gráfico, Tilesets originales e items",
+      "Font": "sourcesanspro",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "",
+      "Font": "sourcesansproblack",
+      "Size": 8,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Joe Williamson (Alias: @JoeCreates)",
+      "Font": "sourcesansproblack",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Iconos de Items",
+      "Font": "sourcesanspro",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "",
+      "Font": "sourcesansproblack",
+      "Size": 8,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Jon Collier (Alias: Zetasis)",
+      "Font": "sourcesansproblack",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Tiles, Personajes, Recursos, Componentes de generador, Paperdolls, Iconos de interfaz de usuario y mucho más!",
+      "Font": "sourcesanspro",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "",
+      "Font": "sourcesansproblack",
+      "Size": 8,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "PixelFox",
+      "Font": "sourcesansproblack",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Animaciones, Personajes, Monstruos, Paperdolls y Tiles",
+      "Font": "sourcesanspro",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "",
+      "Font": "sourcesansproblack",
+      "Size": 8,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "TobiGael",
+      "Font": "sourcesansproblack",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Timeado y configurado de animaciones",
+      "Font": "sourcesanspro",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "",
+      "Font": "sourcesansproblack",
+      "Size": 8,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "..::Interfaz de Usuario::..",
+      "Font": "sourcesansproblack",
+      "Size": 12,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 0,
+        "G": 255,
+        "B": 238
+      }
+    },
+    {
+      "Text": "",
+      "Font": "sourcesansproblack",
+      "Size": 8,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Aesthetic",
+      "Font": "sourcesansproblack",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Diseño de Interfaz de usuario original",
+      "Font": "sourcesanspro",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "",
+      "Font": "sourcesansproblack",
+      "Size": 8,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "FontAwesome",
+      "Font": "sourcesansproblack",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Iconos de Interfaz de Usuario",
+      "Font": "sourcesanspro",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "",
+      "Font": "sourcesansproblack",
+      "Size": 8,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Vincent Garreau (particulas)",
+      "Font": "sourcesansproblack",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Texturas de Botón",
+      "Font": "sourcesanspro",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "",
+      "Font": "sourcesansproblack",
+      "Size": 8,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "..::Efectos de Sonido::..",
+      "Font": "sourcesansproblack",
+      "Size": 12,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 0,
+        "G": 255,
+        "B": 72
+      }
+    },
+    {
+      "Text": "",
+      "Font": "sourcesansproblack",
+      "Size": 8,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "artisticdude",
+      "Font": "sourcesansproblack",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Efectos de Sonido varios",
+      "Font": "sourcesanspro",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "",
+      "Font": "sourcesansproblack",
+      "Size": 8,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Kenney",
+      "Font": "sourcesansproblack",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Efectos de Sonido varios",
+      "Font": "sourcesanspro",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "",
+      "Font": "sourcesansproblack",
+      "Size": 8,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Sonidos de Octave",
+      "Font": "sourcesansproblack",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Sonidos de interfaz de usuario",
+      "Font": "sourcesanspro",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "",
+      "Font": "sourcesansproblack",
+      "Size": 8,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "..::Música::..",
+      "Font": "sourcesansproblack",
+      "Size": 12,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 0
+      }
+    },
+    {
+      "Text": "",
+      "Font": "sourcesansproblack",
+      "Size": 8,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Eric Matyas",
+      "Font": "sourcesansproblack",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Matthew Pablo",
+      "Font": "sourcesansproblack",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "SoundImage.org (varios BGM)",
+      "Font": "sourcesanspro",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "",
+      "Font": "sourcesansproblack",
+      "Size": 8,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "..::Fuentes::..",
+      "Font": "sourcesansproblack",
+      "Size": 12,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 100,
+        "B": 0
+      }
+    },
+    {
+      "Text": "",
+      "Font": "sourcesansproblack",
+      "Size": 8,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Adobe",
+      "Font": "sourcesansproblack",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Source Sans Pro y Source Sans Pro Black",
+      "Font": "sourcesanspro",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "",
+      "Font": "sourcesansproblack",
+      "Size": 8,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "..::Agradecimientos Especiales::..",
+      "Font": "sourcesansproblack",
+      "Size": 12,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 0,
+        "B": 85
+      }
+    },
+    {
+      "Text": "",
+      "Font": "sourcesansproblack",
+      "Size": 8,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Emiliano Ortiz",
+      "Font": "sourcesansproblack",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Por sus increíbles testeos,diseños y apoyo aportados al juego, los cuales nos permitieron superar y conquistar todas las limitaciones!",
+      "Font": "sourcesanspro",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "En paz descanses hermano!",
+      "Font": "sourcesanspro",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "",
+      "Font": "sourcesansproblack",
+      "Size": 8,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Equipo interno de testeos Alpha",
+      "Font": "sourcesansproblack",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Naruto13, Luka Skypewalker, Cart, Micalox, Lennin1, Sonlegends, VeltrayKeios, Cesae, Anthony, DarkZeraxl, Sykron, lil_kanashimi y farenheit!",
+      "Font": "sourcesanspro",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "",
+      "Font": "sourcesansproblack",
+      "Size": 8,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Equipo interno de testeos Beta",
+      "Font": "sourcesansproblack",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Naruto13, VeltrayKeios, Luka Skypewalker, FNX Guido, FNX Fio, FNX Jacob, FNX Eloy, Kio, Anthony, Cesae, DarkZeraxl, Rey Seragi, Sykron, Darkin_Rhaast, TheKingPanda, Emma, Frank, Alexis, Hector, Kazegama, lil_kanashimi, RedLion021, Princesa Gracie, Vicente Games, Aku, Farenheit, Microsheep y muchos otros que no nombré porque no los recuerdo, a toda esta inmensa familia, a los que nombré y a los que no, este agradecimiento es a ustedes",
+      "Font": "sourcesanspro",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "",
+      "Font": "sourcesansproblack",
+      "Size": 8,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Robin Perris",
+      "Font": "sourcesansproblack",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Librerias de DarkUI y varias consultas de desarrollo.",
+      "Font": "sourcesanspro",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "",
+      "Font": "sourcesansproblack",
+      "Size": 8,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "MonoGame Framework",
+      "Font": "sourcesansproblack",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Renderizado de Motor, Sistemas de Audio, Handling y mucho más!",
+      "Font": "sourcesanspro",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "",
+      "Font": "sourcesansproblack",
+      "Size": 8,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Comunidad de Inmortal Tower (Facebook, Discord, Instagram, etc)",
+      "Font": "sourcesansproblack",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Apoyo moral, apoyo financiero, apoyo en desarrollo, testeos alpha/beta y mucho más",
+      "Font": "sourcesanspro",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Comunidad de Ascension Game Dev",
+      "Font": "sourcesansproblack",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Apoyo moral, apoyo financiero, apoyo en desarrollo y mucho más",
+      "Font": "sourcesanspro",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "",
+      "Font": "sourcesansproblack",
+      "Size": 8,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    }
+  ]
+}
